@@ -1,0 +1,41 @@
+path: ./dataset_two_stage
+train: train_augmented_rotated/images
+val: val/images
+nc: 36
+names:
+  0: armatura_ruchn
+  1: klapan_obratn
+  2: regulator_ruchn
+  3: armatura_electro
+  4: regulator_electro
+  5: drossel
+  6: perehod
+  7: klapan_obratn_seroprivod
+  8: armatura_seroprivod
+  9: regulator_seroprivod
+  10: armatura_membr_electro
+  11: nasos
+  12: ventilaytor
+  13: predohran
+  14: condensatootvod
+  15: rashodomernaya_shaiba
+  16: vodostruiniy_nasos
+  17: teploobmen
+  18: zaglushka
+  19: gidrozatvor
+  20: bak
+  21: voronka
+  22: filtr_meh
+  23: separator
+  24: kapleulov
+  25: celindr_turb
+  26: redukcion_ustr
+  27: bistro_redukc_ustr
+  28: separator_paro
+  29: dearator
+  30: silfonnii_kompensator
+  31: electronagrevat
+  32: smotrowoe_steclo
+  33: datchik
+  34: output
+  35: strelka
