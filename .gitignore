@@ -5,7 +5,6 @@ __pycache__/
 *.log
 *.tmp
 *.pt
-*.png
 data
 AutoCVAT
 app/yolo_node/dataset_two_stage
